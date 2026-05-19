@@ -4,7 +4,7 @@ import heroVideoUrl from '../4404097-hd_1280_720_24fps.mp4?url';
 document.querySelector('#app').innerHTML = `
   <nav>
     <div class="nav-wrap">
-      <div class="logo">KEYSTONE <span>RIDGE</span></div>
+      <div class="logo">TEST <span>CONSTRUCTION</span></div>
       <div class="nav-links">
         <a href="#about">About</a>
         <a href="#services">Services</a>
@@ -20,14 +20,14 @@ document.querySelector('#app').innerHTML = `
     </video>
     <div class="hero-overlay"></div>
     <div class="container hero-content">
-      <div class="kicker">Western Pennsylvania General Contractor</div>
+      <div class="kicker">Test Region General Contractor</div>
       <h1>Building with Strength, Precision, and Integrity.</h1>
       <p class="lead">
         Custom homes, commercial construction, renovations, and additions delivered with 18 years of proven craftsmanship.
       </p>
       <div class="cta">
         <a class="btn btn-primary" href="#contact">Request a Free Estimate</a>
-        <a class="btn btn-secondary" href="tel:8145552478">Call (814) 555-2478</a>
+        <a class="btn btn-secondary" href="tel:5555555555">Call (555) 555-5555</a>
       </div>
     </div>
   </header>
@@ -36,7 +36,7 @@ document.querySelector('#app').innerHTML = `
     <div class="container reveal">
       <h2 class="section-title">Built on Craftsmanship. <span class="highlight">Driven by Integrity.</span></h2>
       <p class="section-sub">
-        Keystone Ridge Construction was founded to deliver superior construction services with honesty, precision, and accountability.
+        Test Construction Company was founded to deliver superior construction services with honesty, precision, and accountability.
         Every project is led with a hands-on approach and relentless attention to detail.
       </p>
       <div class="stats">
@@ -79,7 +79,7 @@ document.querySelector('#app').innerHTML = `
         </div>
       </div>
       <div class="grid testimonials">
-        <div class="card"><blockquote>"Keystone Ridge exceeded our expectations. The craftsmanship and communication were outstanding."</blockquote></div>
+        <div class="card"><blockquote>"Test Construction exceeded our expectations. The craftsmanship and communication were outstanding."</blockquote></div>
         <div class="card"><blockquote>"Our office renovation was completed on schedule and with remarkable attention to detail."</blockquote></div>
       </div>
     </div>
@@ -116,8 +116,8 @@ document.querySelector('#app').innerHTML = `
   </section>
 
   <footer>
-    Keystone Ridge Construction, LLC - Johnstown, Pennsylvania - (814) 555-2478<br>
-    Serving Western Pennsylvania with strength, precision, and integrity.
+    Test Construction Company - Test City, ST - (555) 555-5555<br>
+    Serving Test Region with reliable project planning and quality workmanship.
   </footer>
 `;
 
